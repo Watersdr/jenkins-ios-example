@@ -1,1 +1,3 @@
 language: objective-c
+xcode_project: JenkinsIOSExample.xcodeproj
+xcode_scheme: JenkinsIOSExample
